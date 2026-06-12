@@ -31,7 +31,17 @@
     align-items: center;
     list-style: none;
     cursor: pointer;
-    /* background-color: lightblue; */
+    /* background-color: lightblue;  */
+}
+.header_Net{
+    /* width: 140%; */
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    cursor: pointer;
+    /* background-color: lightblue;  */
 }
 .header_right ul{
     width: 150%;
